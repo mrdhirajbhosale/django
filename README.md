@@ -1,0 +1,2 @@
+# django
+Basic CRUD Application.
